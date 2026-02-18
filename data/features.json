@@ -1,3 +1,10 @@
 {
-  "features": []
+  "features": [
+    {
+      "id": 1,
+      "name": "Dark Mode",
+      "status": "completed",
+      "priority": "high"
+    }
+  ]
 }
