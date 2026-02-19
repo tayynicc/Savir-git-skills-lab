@@ -5,6 +5,12 @@
       "name": "Push Notifications",
       "status": "pending",
       "priority": "medium"
+    },
+    {
+      "id": 2,
+      "name": "Dark Mode",
+      "status": "completed",
+      "priority": "high"
     }
   ]
 }
