@@ -1,7 +1,13 @@
 {
-  "developer": "",
-  "score": 0,
+  "developer": "Savir Patil",
+  "score": 100,
   "maxScore": 100,
-  "completedTasks": []
+  "completedTasks": [
+    "Create a Feature Branch",
+    "Resolve a Merge Conflict",
+    "Rebase and Squash Commits",
+    "Cherry-Pick a Commit",
+    "Recover from a Hard Reset",
+    "Update the Scoreboard"
+  ]
 }
-
