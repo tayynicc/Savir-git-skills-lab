@@ -1,4 +1,13 @@
 {
-  "users": []
+  "users": [
+    {
+      "name": "Savir Patil"
+    },
+    {
+      "name": "John Doe"
+    },
+    {
+      "name": "Jane Smith"
+    }
+  ]
 }
-
